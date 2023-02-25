@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
 
-# Xue YANG - Portfolio
+# Xue YANG
 
 I am a computer science student with a passion for coding and software development. 
 
@@ -11,32 +11,34 @@ I have experience in the following programming languages and tools:
 
 ### Programming Languages & Tools
 
-Java :coffee:
-Python :snake:
-SQL :floppy_disk:
-C/C++ :computer:
-Haskell :scroll:
-HTML/CSS :art:
-PHP :elephant:
-JavaScript :rocket:
+- Java 
+- Python 
+- SQL 
+- C/C++ 
+- Haskell 
+- HTML/CSS 
+- PHP 
+- JavaScript 
 
 ### Operating Systems
 
-Linux :penguin:
-Windows :computer:
-Mac OS :apple:
-Unix :sunrise:
-
+- Linux 
+- Windows 
+- Mac OS 
+- Unix
 
 ### Tools
 
-Git :octocat:
-LaTex :page_with_curl:
-Numpy :chart_with_upwards_trend:
-Scipy :bar_chart:
-Matplotlib :bar_chart:
-Pandas :chart_with_downwards_trend:
+- Git 
+- LaTex 
+- Jupyter Notebook
+- Visual Studio Code/IntelliJ IDEA
 
+## Other Computer Skills
+- Office Suite (Word, Excel, PowerPoint, etc.)
+- Data Visualization 
+- Machine Learning (e.g. scikit-learn, etc.)
+- Data Cleaning and Preprocessing (e.g. Pandas, Numpy, etc.)
 
 ## Projects
 
